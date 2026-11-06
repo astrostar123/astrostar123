@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a student learning to code.<br>🌱 Currently building small projects and improving my skills every day.<br>💻 Exploring web development and the fundamentals of programming.<br>🚀 Always curious and open to learning new things.
+-I'm a student learning to code.<br> -Currently building small projects and improving my skills every day.<br> -Exploring web development and the fundamentals of programming.<br> -Always curious and open to learning new things.
 
 
 # 💻 Tech Stack:
